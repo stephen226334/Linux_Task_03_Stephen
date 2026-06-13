@@ -1,0 +1,118 @@
+Linux Task 03 Research Answers
+
+PART A
+
+1. What is a Process?
+
+A process is a running instance of a program. Every application running in Linux is executed as a process.
+
+2. What is a PID?
+
+PID (Process ID) is a unique identification number assigned to each running process.
+
+3. Which process is consuming the most CPU?
+
+The process at the top of the CPU usage list in top or htop.
+
+4. Which process is consuming the most Memory?
+
+The process with the highest memory percentage in top or htop.
+
+----------------------------------------------------
+
+PART D
+
+1. What is a Service?
+
+A service is a background program that performs specific system functions without user interaction.
+
+2. Why are services important?
+
+Services provide networking, printing, remote access, scheduling, and many core operating system functions.
+
+3. How can a stopped service affect a system?
+
+A stopped service can prevent applications from working properly and may affect system functionality.
+
+----------------------------------------------------
+
+PART F
+
+netstat
+
+Purpose:
+Displays network connections, routing tables, and open ports.
+
+Example Command:
+netstat -tulnp
+
+Security Use Case:
+Used to identify suspicious network connections and open ports.
+
+----------------------------------------------------
+
+ss
+
+Purpose:
+Displays socket statistics and network connections.
+
+Example Command:
+ss -tuln
+
+Security Use Case:
+Helps identify listening services and active connections.
+
+----------------------------------------------------
+
+who
+
+Purpose:
+Displays currently logged-in users.
+
+Example Command:
+who
+
+Security Use Case:
+Used to detect unauthorized user sessions.
+
+----------------------------------------------------
+
+w
+
+Purpose:
+Shows logged-in users and their current activities.
+
+Example Command:
+w
+
+Security Use Case:
+Helps monitor user activity and resource usage.
+
+----------------------------------------------------
+
+last
+
+Purpose:
+Displays login history.
+
+Example Command:
+last
+
+Security Use Case:
+Used for auditing and investigating login attempts.
+
+----------------------------------------------------
+
+PART G - MINI SOC ACTIVITY
+
+1. How would you identify resource-heavy processes?
+
+I would use top, htop, and ps aux commands to identify processes consuming high CPU and memory resources.
+
+2. How would you determine whether a process is suspicious?
+
+I would examine the process name, PID, resource usage, file location, and network activity. Unknown or unusual processes may indicate suspicious behavior.
+
+3. What information would you collect before terminating a process?
+
+I would collect the PID, process name, owner, CPU usage, memory usage, command path, and related network connections before terminating the process.
