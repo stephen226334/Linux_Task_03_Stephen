@@ -41,10 +41,10 @@ htop
 ![ps Output](Screenshots/Part_A.png)
 
 
-![top Output](Screenshots/Part A2.png)
+![top Output](Screenshots/Part_A2.png)
 
 
-![htop Output](Screenshots/Part A3.png)
+![htop Output](Screenshots/Part_A3.png)
 
 ---
 
@@ -70,17 +70,17 @@ kill -9 PID
 
 ### Screenshot 05 – Running Sleep Process
 
-![Sleep Process](Screenshots/Part B.png)
+![Sleep Process](Screenshots/Part_B.png)
 
 ### Screenshot 06 – Finding PID, Kill Process
 
 
-![Find PID,Kill Process](Screenshots/Part B2.png)
+![Find PID,Kill Process](Screenshots/Part_B2.png)
 
 
 ### Screenshot 08 – Force Kill Process
 
-![Force Kill](Screenshots/Part B3.png)
+![Force Kill](Screenshots/Part_B3.png)
 
 ---
 
@@ -112,7 +112,7 @@ uname -a
 
 ### Screenshot 09 – free -h, df -h, uptime, uname -a
 
-![free](Screenshots/Part C.png)
+![free](Screenshots/Part_C.png)
 
 
 ---
@@ -136,11 +136,11 @@ systemctl status NetworkManager
 
 ### Screenshot 13 – SSH Service Status
 
-![SSH](Screenshots/Part D.png)
+![SSH](Screenshots/Part_D.png)
 
 ### Screenshot 14 – NetworkManager Service Status
 
-![NetworkManager](Screenshots/Part D2.png)
+![NetworkManager](Screenshots/Part_D2.png)
 
 ---
 
@@ -178,7 +178,7 @@ The script displays:
 
 ### Screenshot 15 – Script Execution Output
 
-![Script Output](Screenshots/Part E.png)
+![Script Output](Screenshots/Part_E.png)
 
 ---
 
@@ -202,7 +202,7 @@ last
 
 ### Screenshot 17 – netstat, ss, who, w, last
 
-![netstat](Screenshots/Part F.png)
+![netstat](Screenshots/Part_F.png)
 
 ### Screenshot 18 – ss
 
