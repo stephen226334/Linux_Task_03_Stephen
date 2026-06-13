@@ -204,7 +204,6 @@ last
 
 ![netstat](Screenshots/Part_F.png)
 
-### Screenshot 18 – ss
 
 ---
 
