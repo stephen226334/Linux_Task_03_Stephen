@@ -36,21 +36,15 @@ htop
 
 ## Screenshots
 
-### Screenshot 01 – ps Command Output
+### Screenshot 01 – ps, ps aux, top, htop Command Output
 
-![ps Output](Screenshots/Screenshot_01_ps.png)
+![ps Output](Screenshots/Part A.png)
 
-### Screenshot 02 – ps aux Command Output
 
-![ps aux Output](Screenshots/Screenshot_02_ps_aux.png)
+![top Output](Screenshots/Part A2.png)
 
-### Screenshot 03 – top Command Output
 
-![top Output](Screenshots/Screenshot_03_top.png)
-
-### Screenshot 04 – htop Command Output
-
-![htop Output](Screenshots/Screenshot_04_htop.png)
+![htop Output](Screenshots/Part A3.png)
 
 ---
 
@@ -76,19 +70,17 @@ kill -9 PID
 
 ### Screenshot 05 – Running Sleep Process
 
-![Sleep Process](Screenshots/Screenshot_05_sleep_process.png)
+![Sleep Process](Screenshots/Part B.png)
 
-### Screenshot 06 – Finding PID
+### Screenshot 06 – Finding PID, Kill Process
 
-![Find PID](Screenshots/Screenshot_06_find_pid.png)
 
-### Screenshot 07 – Kill Process
+![Find PID,Kill Process](Screenshots/Part B2.png)
 
-![Kill Process](Screenshots/Screenshot_07_kill_process.png)
 
 ### Screenshot 08 – Force Kill Process
 
-![Force Kill](Screenshots/Screenshot_08_force_kill.png)
+![Force Kill](Screenshots/Part B3.png)
 
 ---
 
@@ -118,21 +110,10 @@ uname -a
 
 ## Screenshots
 
-### Screenshot 09 – free -h
+### Screenshot 09 – free -h, df -h, uptime, uname -a
 
-![free](Screenshots/Screenshot_09_free_h.png)
+![free](Screenshots/Part C.png)
 
-### Screenshot 10 – df -h
-
-![df](Screenshots/Screenshot_10_df_h.png)
-
-### Screenshot 11 – uptime
-
-![uptime](Screenshots/Screenshot_11_uptime.png)
-
-### Screenshot 12 – uname -a
-
-![uname](Screenshots/Screenshot_12_uname_a.png)
 
 ---
 
@@ -155,11 +136,11 @@ systemctl status NetworkManager
 
 ### Screenshot 13 – SSH Service Status
 
-![SSH](Screenshots/Screenshot_13_ssh_service.png)
+![SSH](Screenshots/Part D.png)
 
 ### Screenshot 14 – NetworkManager Service Status
 
-![NetworkManager](Screenshots/Screenshot_14_networkmanager_service.png)
+![NetworkManager](Screenshots/Part D2.png)
 
 ---
 
@@ -195,13 +176,9 @@ The script displays:
 
 ## Screenshots
 
-### Screenshot 15 – Shell Script Code
+### Screenshot 15 – Script Execution Output
 
-![Script Code](Screenshots/Screenshot_15_script_code.png)
-
-### Screenshot 16 – Script Execution Output
-
-![Script Output](Screenshots/Screenshot_16_script_output.png)
+![Script Output](Screenshots/Part E.png)
 
 ---
 
@@ -223,25 +200,11 @@ last
 
 ## Screenshots
 
-### Screenshot 17 – netstat
+### Screenshot 17 – netstat, ss, who, w, last
 
-![netstat](Screenshots/Screenshot_17_netstat.png)
+![netstat](Screenshots/Part F.png)
 
 ### Screenshot 18 – ss
-
-![ss](Screenshots/Screenshot_18_ss.png)
-
-### Screenshot 19 – who
-
-![who](Screenshots/Screenshot_19_who.png)
-
-### Screenshot 20 – w
-
-![w](Screenshots/Screenshot_20_w.png)
-
-### Screenshot 21 – last
-
-![last](Screenshots/Screenshot_21_last.png)
 
 ---
 
