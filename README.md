@@ -38,7 +38,7 @@ htop
 
 ### Screenshot 01 – ps, ps aux, top, htop Command Output
 
-![ps Output](Screenshots/Part A.png)
+![ps Output](Screenshots/Part_A.png)
 
 
 ![top Output](Screenshots/Part A2.png)
